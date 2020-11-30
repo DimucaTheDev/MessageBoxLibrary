@@ -1,0 +1,9 @@
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\bin\Debug\netstandard2.0\MessageBoxLibrary.deps.json
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\bin\Debug\netstandard2.0\MessageBoxLibrary.dll
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\bin\Debug\netstandard2.0\MessageBoxLibrary.pdb
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.AssemblyInfo.cs
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.dll
+C:\Users\Dima\source\repos\MessageBoxLibrary\MessageBoxLibrary\obj\Debug\netstandard2.0\MessageBoxLibrary.pdb
